@@ -24,8 +24,6 @@
 - sintaxe nowdoc - https://www.php.net/manual/pt_BR/language.types.string.php#language.types.string.syntax.nowdoc
 
 
-
-
 ### Links
 
 - https://www.php.net/manual/en/ref.strings.php
