@@ -1,7 +1,8 @@
 ## Tipos de dados no PHP
 
+-----
 ### Tipos escalares
-Os tipos de dados escalares no PHP são inteiro, float, string e booleano.
+Os tipos de dados escalares no PHP são `integer`, `float`, `string` e `boolean`.
 
 A documentação do PHP fornece informações detalhadas sobre esses tipos de dados, incluindo suas características e uso.
 
@@ -63,3 +64,20 @@ $resultado = 1 === 1; // true
 $resultado2 = 1 !== 1; // false
 $resultado3 = 4 > 6; // false
 ```
+
+-----
+### Tipos compostos
+Os tipos de dados compostos no PHP são `array` e `object`.
+
+#### Array
+
+- Referância: https://www.php.net/manual/en/language.types.array.php
+
+#### Object (objeto)
+
+- Referância: https://www.php.net/manual/en/language.types.object.php
+
+-----
+
+### Tipos Especiais
+Os tipos de dados chamados 'especiais' no PHP são `NULL`, `resource`, `callable` e `iterable`.
